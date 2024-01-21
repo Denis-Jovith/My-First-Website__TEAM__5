@@ -36,14 +36,14 @@ The project is organized as follows:
 
 Meet the talented individuals behind BSC Group 5:
 
-- **Rahman Boussaidy** (@rahman-boussaidy) - Team Leader
+- **Rahmani Abubakari** (@rahmanaboussaidy) - Team Leader
 - **Innocent Mwakajoka** (@innor236) - Web Developer
 - **Denis Jovith** (@Denis-Jovith) - Software Engineer
 - **Valerian Victor** (itsValerian668) - UI/UX Designer
-- **Loshilu Singoi** (@Loshilu) - Database Specialist
+- **Loshilu Singooi** (@LOSHILU) - Database Specialist
 - **Oituu Ismail** (@Ismail-Oituu) - Project Manager
 - **Yoshua Sengo** (@2002yoshua) - Quality Assurance Analyst
-- **Jackson Olum** (@Jackson-Olum) - Frontend Developer
+- **Jackson Olum** (@JacksonGeorgeOlum) - Frontend Developer
 - **Robert Silas** (@Silas-robert) - Graphic Designer
 
 Feel free to explore our individual profiles and contributions.
