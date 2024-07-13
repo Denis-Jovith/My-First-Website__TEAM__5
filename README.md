@@ -27,7 +27,7 @@ The project is organized as follows:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/my-first-website.git
+    https://github.com/Denis-Jovith/My-First-Website__TEAM__5.git
     ```
 
 2. Open the HTML files in your preferred web browser to view the website.
